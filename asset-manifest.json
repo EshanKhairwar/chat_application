@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/EshanKhairwar/chat_application.git/static/css/main.4845cf2f.css",
-    "main.js": "/EshanKhairwar/chat_application.git/static/js/main.d5ca3a53.js",
-    "index.html": "/EshanKhairwar/chat_application.git/index.html",
-    "main.4845cf2f.css.map": "/EshanKhairwar/chat_application.git/static/css/main.4845cf2f.css.map",
-    "main.d5ca3a53.js.map": "/EshanKhairwar/chat_application.git/static/js/main.d5ca3a53.js.map"
+    "main.css": "/chat_application/static/css/main.4845cf2f.css",
+    "main.js": "/chat_application/static/js/main.d5ca3a53.js",
+    "index.html": "/chat_application/index.html",
+    "main.4845cf2f.css.map": "/chat_application/static/css/main.4845cf2f.css.map",
+    "main.d5ca3a53.js.map": "/chat_application/static/js/main.d5ca3a53.js.map"
   },
   "entrypoints": [
     "static/css/main.4845cf2f.css",
